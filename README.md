@@ -5,6 +5,6 @@
 
 ### Preview
 
-[Screenshot](https://user-images.githubusercontent.com/43116166/92524825-0d59fd80-f223-11ea-97d4-4cdbf4c1d6e0.png)
+![Screenshot](https://user-images.githubusercontent.com/43116166/92524825-0d59fd80-f223-11ea-97d4-4cdbf4c1d6e0.png)
 
 **Enjoy!**
