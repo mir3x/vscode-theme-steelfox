@@ -5,6 +5,6 @@
 
 ### Preview
 
-(https://https://github.com/mir3x/vscode-theme-steelfox/tree/master/preview/1.png)
+(https://github.com/mir3x/vscode-theme-steelfox/blob/master/preview/1.png)
 
 **Enjoy!**
