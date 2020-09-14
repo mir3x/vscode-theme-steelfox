@@ -167,6 +167,15 @@
 			}
 		},
 		{
+			"name": "Keyword Control Python",
+			"scope": [
+				"keyword.control.import.python"
+			],
+			"settings": {
+				"foreground": "#006e28"
+			}
+		},
+		{
 			"name": "Types",
 			"scope": [
 				"storage.type",
@@ -263,7 +272,24 @@
 				"foreground": "#005912"
 			}
 		},
-
+		{
+			"name": "Function Call Python",
+			"scope": [
+				"meta.function-call.python",
+			],
+			"settings": {
+				"foreground": "#05037c"
+			}
+		},
+		{
+			"name": "Const Language Python",
+			"scope": [
+				"constant.language.python",
+			],
+			"settings": {
+				"foreground": "#3a5800"
+			}
+		},
 		{
 			"name": "Classes",
 			"scope": [
