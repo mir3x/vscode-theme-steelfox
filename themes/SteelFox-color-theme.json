@@ -105,6 +105,14 @@
 			}
 		},
 		{
+			"name": "Regex: Python",
+			"scope": "string.regexp.quoted.single.python",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#640611"
+			}
+		},
+		{
 			"name": "Enums",
 			"scope": "variable.other.enummember",
 			"settings": {
